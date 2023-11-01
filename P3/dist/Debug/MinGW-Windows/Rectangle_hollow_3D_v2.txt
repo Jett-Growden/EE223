@@ -1,0 +1,23 @@
+Count &d
+argv{ 0}: p3.exe
+argv{ 1}: /RH
+argv{ 2}: /i
+Please Enter a Outer Base (in): 
+Please Enter a Outer Height (in): 
+Please Enter Inner Base (in): 
+Please Enter Inner Height (in): 
+Please Enter Length (in): 
+Calling rectangle_hollow_3D_v1...
+Name                            Value
+===============================================
+base_outer (in):                1.0000
+height_outer (in):              2.0000
+base_inner (in):                0.7500
+height_inner (in):              1.5000
+length (in):                    10.0000
+edge_face (in):                 21.0000
+area_face (in):                 1.7500
+area_outer (in):                60.0000
+area_inner (in:                 45.0000
+volume (in^3):                  8.7500
+===============================================

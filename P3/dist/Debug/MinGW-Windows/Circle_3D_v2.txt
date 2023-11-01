@@ -1,0 +1,17 @@
+Count &d
+argv{ 0}: p3.exe
+argv{ 1}: /Circle
+argv{ 2}: /i
+Please Enter a Radius (in): 
+Please Enter Length (in): 
+Calling circle_3D_v2...
+Name                            Value
+===============================================
+radius (in):                    1.0000
+length (in):                    10.0000
+edge_face (in):                 12.5664
+area_face (in):                 6.2832
+area_outer (in):                62.8319
+area_inner (in:                 0.0000
+volume (in^3):                  31.4159
+===============================================

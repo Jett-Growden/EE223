@@ -1,0 +1,19 @@
+Count &d
+argv{ 0}: p3.exe
+argv{ 1}: /Annulus
+argv{ 2}: /i
+Please Enter a Radius (Outer) (in): 
+Please Enter a Radius (Inner): 
+Please Enter Length (in): 
+Calling annulus_3D_v2...
+Name                            Value
+===============================================
+radius (outer):                 1.0000
+radius (inner):                 0.5000
+length (in):                    10.0000
+edge_face (in):                 18.8496
+area_face (in):                 4.7124
+area_outer (in):                62.8319
+area_inner (in:                 31.4159
+volume (in^3):                  23.5619
+===============================================
